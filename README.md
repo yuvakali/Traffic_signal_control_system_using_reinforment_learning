@@ -23,18 +23,9 @@
 Find a step-by-step guide to build this simulation [here](https://towardsdatascience.com/traffic-intersection-simulation-using-pygame-689d6bd7687a).
 
 ------------------------------------------
-### Demo
-
-The video below shows the final output of the simulation.
-
-<p align="center">
-    <img src="./Demo.gif">
-</p>
-
-------------------------------------------
 ### Prerequisites
 
-[Python 3.1+](https://www.python.org/downloads/)
+[Python above 3.8](https://www.python.org/downloads/)
 
 ------------------------------------------
 ### Installation
